@@ -1,0 +1,16 @@
+9V battery snap         9V电池铜线扣 铜100MM
+1N4001                  SOD4004             整流二极管 VRRM=400V If=1A VF=1.1V CJ=4pF SOD123FL
+pushbutton switch       DTSM-62K-S-V-T/R(SN431)    seeed sku 311020004
+10MOhm resistor         0603WAJ0106T5E      0603 package
+2.2uF ceramic capacitor TCC1206X7R225K500HT 1206 package MLCC (multilayer ceramic capacitor)
+2N7002                  2N7002K-7           MOSFET N-CH 60V 0.2A SOT-23-3, ON semi
+15kOhm resistor         0603WAJ0153T5E      0603 package
+Green LED               LTST-C193TGKT-5A    0603 package
+****1mH inductor            LGA0510-102KP52E>PK0608-102MB    色环电感 Axial 1mH ±10% 100mA 14Ω 1MHz -- Axial 1mH inductor, color coded
+0.1uF ceramic capacitor 0603F104M500NT      0603 package, "100nF"
+2.2MOhm resistor        0603WAF2204T5E      0603 package
+TL082                   TL082CDR            SOIC8_150mil
+23mm piezo transducer   HNR-2310A>HND-2310B           1~30V 3500Hz 压电无源封胶圆针
+220 Ohm resistor        0603WAJ0221T5E      0603 package
+680kOhm resistor        0603WAJ0684T5E      0603 package
+
